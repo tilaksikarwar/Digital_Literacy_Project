@@ -6,8 +6,8 @@ The aim of this project is to develop essential digital skills required for stud
 
 The project is divided into five tasks which includes creating an infographic to spread awareness about digital literacy, building a digital portfolio using platforms like gitHub and linkedIn, exploring coding and collaboration tools, drafting professional emails along with a social media etiquette checklist and finally preparing a cybercrime case study with a prevention guide.
 
-**Name**:- Shivesh Jha <br>
-**Registration Number**:-25BAI10748
+**Name**:- Tilak Raj Singh Sikarwar <br>
+**Registration Number**:-25MEI10047
 
 # Module 1:- Hands on Training on Presentation Software
 The first module focuses on basics which include what is Digital literacy itself then it began with an introduction to digital literacy emphasizing the ability to effectively use digital technologies for communication, content creation, and information sharing.
